@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 60px;
+	box-shadow: 0 0 1px 0 #c8d6e5;
+}
+.one{
+	color: #74b9ff;
+}
+.two{
+	color: #d63031;
+}
+.three{
+	color: #fdcb6e;
+}
+.four{
+	color: #74b9ff;
+}
+.five{
+	color: #55efc4;
+}
+.six{
+	color:  #d63031;
+}
+.second_line{
+	font-size: 30px;
+	text-align: center;
+}
+.org{
+	color: #74b9ff;
+}
+.inform{
+	color:  #d63031;
+}
+.universal{
+	color: #55efc4;
+}
+.use{
+	color: #fdcb6e;
+}
+div>img{
+	display: block;
+	max-width: 80%;
+	height: auto;
+	margin: 0 auto;
+}
+h2{
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+.lorem{
+	width: 80%;
+	margin: 0 auto;
+}
+.last{
+	width: 80%;
+	height: 200px;
+	background-color: #20bf6b;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.last>h2{
+	font-size: 40px;
+	color: #fff;
+	padding: 40px;
+	text-align: center;
+	font-weight: bold;
+}
